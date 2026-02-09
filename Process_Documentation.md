@@ -1,4 +1,5 @@
 **23.11.2025**
+
 *Coming up with an idea:*
 Before coming up with an initial idea for my final project I already knew that I would like to make something that I or someone around me could actually make use of. 
 While doing some research online and on you tube I stumbled across many different Arduino projects regarding bicycles. 
@@ -6,6 +7,7 @@ After giving the topic some thought I came up with the initial idea of creating 
 The device was supposed to call or send a text message to the phone of the user when the bicycle is being used. 
 
 **26.11.2025**
+
 *Nailing down my idea:*
 After having a general idea of what I would like to do for my final project and what components I would need to use (f.e. an ESP32 as the central microcontroller),
 I’ve send an E-mail to my professor to get some feedback and a better idea on how realistic this project would be for me to do.
