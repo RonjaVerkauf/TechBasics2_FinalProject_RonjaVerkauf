@@ -1,6 +1,4 @@
-**23.11.2025**
-
-*Coming up with an idea:*
+**23.11.2025** *Coming up with an idea:*
 Before coming up with an initial idea for my final project I already knew that I would like to make something that I or someone around me could actually make use of. 
 While doing some research online and on you tube I stumbled across many different Arduino projects regarding bicycles. 
 After giving the topic some thought I came up with the initial idea of creating a silent security device. 
