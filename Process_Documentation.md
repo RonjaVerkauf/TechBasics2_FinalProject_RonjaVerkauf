@@ -1,17 +1,17 @@
-**23.11.2025** *Coming up with an idea:*
+**23.11.2025** ***Coming up with an idea:***
+
 Before coming up with an initial idea for my final project I already knew that I would like to make something that I or someone around me could actually make use of. 
 While doing some research online and on you tube I stumbled across many different Arduino projects regarding bicycles. 
 After giving the topic some thought I came up with the initial idea of creating a silent security device. 
 The device was supposed to call or send a text message to the phone of the user when the bicycle is being used. 
 
-**26.11.2025**
+**26.11.2025** ***Nailing down my idea:***
 
-*Nailing down my idea:*
 After having a general idea of what I would like to do for my final project and what components I would need to use (f.e. an ESP32 as the central microcontroller),
 I’ve send an E-mail to my professor to get some feedback and a better idea on how realistic this project would be for me to do.
 
-**09.12.2025**
-*First presentation:*
+**09.12.2025** ***First presentation:***
+
 In the beginning of december I held a presentation infront of the class and the professor explaining my initial project idea. 
 I had already done quite some research on google, You Tube and asking AI, my Dad and my professor. Through that research I was able to layout:
 - A technical concep
@@ -22,6 +22,7 @@ I had already done quite some research on google, You Tube and asking AI, my Dad
 - And additional functions (like GPS tracking) which I could include in the future
 
 My presentation: 
+
 https://www.canva.com/design/DAG68Z0ASbo/kgA9yAEKSYflQ0bWsIWqxA/view?utm_content=DAG68Z0ASbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee3be1c131
 
 **13.-14.12.2025**
