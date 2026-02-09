@@ -25,17 +25,18 @@ My presentation:
 
 https://www.canva.com/design/DAG68Z0ASbo/kgA9yAEKSYflQ0bWsIWqxA/view?utm_content=DAG68Z0ASbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee3be1c131
 
-**13.-14.12.2025**
-*Finishing the project concept:*
+**13.-14.12.2025** ***Finishing the project concept:***
+
 The weekend after my presentation I drove to my dads place to review the previous feedback I had gotten from my professor. Because of his knowledge regarding coding and hardware he was able
 to help me coming up with new ways and adjustments to my initial project idea. After the weekend I had my final project abstract done 
 (little did I know that I would actually still have to change quite some things along the way🫣). 
 
 Peoject Lineout:
+
 https://docs.google.com/document/d/1CNGolNSGCiXH2bkl5u_3fEt8SCGP3HFgc-hNApr6zvI/edit?usp=sharing
 
-**04.01.2026**
-*Collecting all equipment needed for the project:*
+**04.01.2026** ***Collecting all equipment needed for the project:***
+
 In the beginning of the new year I’ve ordered all of the hardware equipment that I would need. By now I had already done some changes on the project plan again 
 and decided to include a loud alarm aswell as sending the notification via E-Mail instead of a HTTP notification. 
 **Hardware included in the Arduino kit:**
@@ -51,8 +52,8 @@ and decided to include a loud alarm aswell as sending the notification via E-Mai
 - SD-card reader
 - Acceleration sensor/gyroscope
 
-**10.-11.01.2026**
-*Building the prototype:*
+**10.-11.01.2026** ***Building the prototype:***
+
 After all of the equipment arrived I’ve took the weekend to build my prototype and afterwards review it with my dad for further feedback.
 For the Prototype I used the breadboard included in the Arduino Kit and an additional Breadboard because the set up did take up quite some space. I’ve used the ESP32, a Buzzer, 
 the SD-Card reader and the movement detector and connected everything using the jumping wires from my Kit.
@@ -74,8 +75,8 @@ Further changes I’ve decided to make after reviewing the prototype include:
 The Prototype:
 
 
-**17.-18.01.2026**
-*Building the product:*
+**17.-18.01.2026** ***Building the product:***
+
 The next weekend I finally build the actual product step by step:
 1. Translating the connections from the prototype to the actual product
 2. Solder everything together (ESP32, RFID, SD card reader, buzzer, movement detector) 
@@ -87,24 +88,25 @@ The two ideas I came up with were:
 1. Designing a case myself and printing it with a 3D printer
 2. Buying a bicycle saddle bag myself and doing my own little changes to it to make it safer
 
-**27.01.2026** 
-*Intermediate Presentation:*
+**27.01.2026** ***Intermediate Presentation:***
+
 At the end of January I held my second presentation showing the prototype in front of the class and my professor. The most important take away from that presentation was my professor's 
 feedback on the type of case that I should use for the device. So right after the lesson I started looking into different saddle cases that I could buy instead of printing my own.
 
 My presentation:
+
 https://www.canva.com/design/DAG_VIViMn0/8sIeP5AGplpsw27RB_pZcQ/view?utm_content=DAG_VIViMn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd8ca1cca40
 
-**28.01-08.02.2026**
-*Finding the perfect Case:*
+**28.01-08.02.2026** ***Finding the perfect Case:***
+
 While looking at different cases on the internet I quickly realized, that there where quite some things I had to look out for when trying to find the perfect case:
 - The price (some where really pricy)
 - The size (not too big but also not to small)
 - That it had a sipper that i could fit a lock through to make it even safer
 - The way it attached to the bicycle (no velcro fastener because it is to easy to detach from the bisycle)
 
-**10.-11.02.2026**
-*The final steps:*
+**10.-11.02.2026** ***The final steps:***
+
 After the case finally arrived I just had to do some more final steps:
 ✅DIY some adjustments to the case (add a lock and attach the case with cable ties)
 ✅Make the Demo Video
