@@ -31,7 +31,7 @@ The weekend after my presentation I drove to my dads place to review the previou
 to help me coming up with new ways and adjustments to my initial project idea. After the weekend I had my final project abstract done 
 (little did I know that I would actually still have to change quite some things along the way🫣). 
 
-Peoject Lineout:
+Project Lineout:
 
 https://docs.google.com/document/d/1CNGolNSGCiXH2bkl5u_3fEt8SCGP3HFgc-hNApr6zvI/edit?usp=sharing
 
