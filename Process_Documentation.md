@@ -73,7 +73,7 @@ Further changes I’ve decided to make after reviewing the prototype include:
 - Additional Buzzer (Because I wanted to keep the final product)
 
 The Prototype:
-![Prototype](Media/IMG_7516.jpg)
+![imgae alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/10e3a46fad8a5ab3dc9e01422ae9fa74129893b1/Media/IMG_7505.HEIC)
 
 **17.-18.01.2026** ***Building the product:***
 
