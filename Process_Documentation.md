@@ -73,8 +73,7 @@ Further changes I’ve decided to make after reviewing the prototype include:
 - Additional Buzzer (Because I wanted to keep the final product)
 
 The Prototype:
-![Prototype](TechBasics2_FinalProject_RonjaVerkauf/Media
-/IMG_7516.jpg)
+![Prototype](Media/IMG_7516.jpg)
 
 **17.-18.01.2026** ***Building the product:***
 
