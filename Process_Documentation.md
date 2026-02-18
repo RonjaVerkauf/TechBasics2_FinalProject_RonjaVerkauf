@@ -1,3 +1,5 @@
+![image alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/f7a4a5fbd0ca74412e5797b42841152583696a85/Media/IMG_7516.jpg)
+
 **23.11.2025** ***Coming up with an idea:***
 
 Before coming up with an initial idea for my final project I already knew that I would like to make something that I or someone around me could actually make use of. 
