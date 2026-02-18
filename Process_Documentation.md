@@ -73,7 +73,7 @@ Further changes I’ve decided to make after reviewing the prototype include:
 - Additional Buzzer (Because I wanted to keep the final product)
 
 The Prototype:
-![Prototype](IMG_7505.HEIC)
+![Prototype](media/IMG_7505.HEIC)
 
 **17.-18.01.2026** ***Building the product:***
 
