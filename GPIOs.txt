@@ -1,0 +1,46 @@
+
+Board Waveshare ESP32-C6-Zero
+                 ┌─────────────────────────┐
+                 │        USB-C Port       │
+                 │          [=====]        │
+┌───────────────┬─────────────────────────┬───────────────┐
+│ 5V            │                         │ TX            │
+│ GND           │                         │ RX            │
+│ 3V3           │                         │ 14            │
+│ GPIO0         │        ESP32-C6         │ 15            │
+│ GPIO1         │       (main chip)       │ 18            │
+│ GPIO2         │                         │ 19            │
+│ GPIO3         │                         │ 20            │
+│ GPIO4         │                         │ 21            │
+│ GPIO5         │                         │ 22            │
+└───────────────┴────────────┬────────────┴───────────────┘
+                             │
+                        [ RGB LED ]
+                             │
+                        [ Ceramic Antenna ]
+
+
+Current Project Pin Usage Map:
+MPU6050:
+  SDA → GPIO0
+  SCL → GPIO1
+
+Shared by SD Card and RFID 
+  SCK  → GPIO18
+  MISO → GPIO19
+  MOSI → GPIO20
+
+SD Card
+  CS → GPIO14
+
+RFID
+  SDA  → GPIO21
+  RST → GPIO22
+
+Buzzer
+  → GPIO5
+
+RGB LED (common anode → 3V3)
+  R → GPIO2
+  G → GPIO3
+  B → GPIO4
