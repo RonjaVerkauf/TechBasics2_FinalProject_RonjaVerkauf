@@ -63,7 +63,8 @@ on the bicycle and it is easy to reach on order to turn it on and of or charge i
 After telling my dad about the problem he then suggested for me to use a perforated grid board instead of the bread boards and connect everything with U shape jumping wires. 
 Further changes I’ve decided to make after reviewing the prototype include:
 - Using a USB-Powerbank instead of battery monitoring via analog voltage measurement
-- Instead of a button interface for arming and disarming the device, using a RFID 
+- Instead of a button interface for arming and disarming the device, using a RFID
+- Adding a RGB LED to signal the device state to the user
 
 **So I had to order some more things:**
 - Perforated grid board
@@ -72,6 +73,8 @@ Further changes I’ve decided to make after reviewing the prototype include:
 - U shape breadbord jumping wires
 - Additional Buzzer (Because I wanted to keep the final product)
 
+I started testing the behavior of the components on the breadboard with simple sketches to make sure each component is working as it suppose to. At this point I realized that when having more then one component that is using the SPI interface, those components need to share the same GPIOs. In my case it was the SD card module and the RFID module. I decided to solve it by using the SD card only at the very first moments just after booting, then deactivating the SD card module and reusing the same SPI GPIOs for the RFID module for the rest of the runtime.
+
 The Prototype:
 ![imgae alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/10e3a46fad8a5ab3dc9e01422ae9fa74129893b1/Media/IMG_7505.HEIC)
 
@@ -79,9 +82,9 @@ The Prototype:
 
 The next weekend I finally build the actual product step by step:
 1. Translating the connections from the prototype to the actual product
-2. Solder everything together (ESP32, RFID, SD card reader, buzzer, movement detector) 
+2. Solder everything together (ESP32, RFID, SD card reader, movement detector, buzzer, RGB LED) 
 3. Create the software 
-- Bla Bla
+
 
 After I was done with all of the steps above I started thinking about possible production cases could put the device into to attach it to the bicycle and have it somewhat protected.
 The two ideas I came up with were:
@@ -111,5 +114,7 @@ After the case finally arrived I just had to do some more final steps:
 ✅DIY some adjustments to the case (add a lock and attach the case with cable ties)
 ✅Make the Demo Video
 ✅Come up with a fun name
+
+While making the demo video I was actually using the device for the first time "in the field" and for a quite long time over and over again. At this point I realized that the time it takes for the notifications to arrive at the user per e-mail is too unpredictable and most of the times also too long. The optimal solution would surely be to use a GSM module and notify the user by SMS messages or push notification to a mobile app. But that would exceed the financial limits of my project. I decided as an interim solution to send the user sms messages by using the REST-API of a SMS serivce provider. I decided to use ClickSend because they offer free credits for developers who want to test their service. And indeed the SMS notifications were not only much faster, but also the duration between sending and receiving the message was much more constant. Making the changes to the sketch was actually very easy and the logic is streight forward.
 
 And just like that after many weeks of work and a lot of try and error (especially while creating the software component) the **“StayAwayItsMyBike”** security device was finally done.
