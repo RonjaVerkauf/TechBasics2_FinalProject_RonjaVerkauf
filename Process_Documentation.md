@@ -85,6 +85,8 @@ The next weekend I finally build the actual product step by step:
 2. Solder everything together (ESP32, RFID, SD card reader, movement detector, buzzer, RGB LED) 
 3. Create the software 
 
+![imgae alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/5e7fd6a5ba76060cc108c3024ebefead0e9bc5af/Media/IMG_7516.jpg)
+
 After I was done with all of the steps above I started thinking about possible protection cases.
 The two ideas I came up with were:
 1. Designing a case myself and printing it with a 3D printer
