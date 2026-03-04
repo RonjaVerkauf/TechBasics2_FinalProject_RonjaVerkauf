@@ -110,6 +110,7 @@ While looking at different cases on the internet I quickly realized, that there 
 **10.-11.02.2026** ***The final steps:***
 
 After the case finally arrived I just had to do some more final steps:
+
 ✅DIY the adjustments to the case 
 
 ✅Make the Demo Video
