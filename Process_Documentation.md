@@ -126,3 +126,5 @@ And just like that after many weeks of work and a lot of try and error (especial
 ![imgae alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/34d73beee27c1385f3d1c5179647eaea242d6327/Media/WhatsApp%20Image%202026-03-03%20at%2000.18.03%20(1).jpeg)
 
 ![imgae alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/b2b0b46460a9eab5ab0458e0068ae64a06e1f64e/Media/WhatsApp%20Image%202026-03-03%20at%2000.18.03.jpeg)
+
+![image alt](https://github.com/RonjaVerkauf/TechBasics2_FinalProject_RonjaVerkauf/blob/85fde9a5ccdadbbf9a6ef14c0f47b6345a2d326a/Media/Final%20Productt.jpeg)
